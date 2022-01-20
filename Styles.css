@@ -1,11 +1,19 @@
 h1 {
 
 text-align: center;
-    font-size: 40px;
+    font-size: 50px;
     font-family: tahoma;
     font-weight: 100; 
-padding-bottom: 250px;
 }
+
+h2 {
+
+font-size: 26px;
+
+
+
+}
+
 
 body {
 
@@ -21,6 +29,8 @@ background-color: #a8dadc;
     text-align:center;
 
 }
+
+
 
 #butter:hover {
     font-size: 35px;
@@ -39,4 +49,27 @@ background-color: #a8dadc;
     font-size: 30px;
     color:#003049;
 
+}
+
+div{
+    text-align: left;
+}
+
+img{
+    border: 10px #ffba08 solid;
+    border-radius: 5%;
+    object-position: center top;
+
+}
+
+body.chicken{
+    background:coral;
+    font-size:20px;
+
+
+
+}
+
+footer {
+    text-align: center;
 }
