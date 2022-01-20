@@ -4,15 +4,15 @@ text-align: center;
     font-size: 50px;
     font-family: tahoma;
     font-weight: 100; 
+    font-style:italic;
 }
 
 h2 {
 
-font-size: 26px;
-
-
+    font-family: tahoma;
 
 }
+
 
 
 body {
@@ -53,6 +53,7 @@ background-color: #a8dadc;
 
 div{
     text-align: left;
+    padding-left: 150px;
 }
 
 img{
@@ -67,9 +68,23 @@ body.chicken{
     font-size:20px;
 
 
-
 }
 
 footer {
     text-align: center;
+}
+
+#box {
+    
+    display:block;
+    margin:auto;
+    border: 10px solid #ffba08;
+    border-radius: 15px;
+    padding: 20px;
+    margin-top: 30px;
+    width: max(250px,500px);
+    text-align: left;
+    background-color: #f9c74f;
+
+
 }
