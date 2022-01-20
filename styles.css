@@ -1,5 +1,30 @@
+
+body{
+    font-size: 30px;
+    font-family:sans-serif;
+    background: #0c83c4;
+    text-align: center;
+}
+
+#chickenb {
+    background: rgb(209, 125, 0);
+}
+
+.Recipes{
+    font: size 15px;
+    font-family:Arial;
+    text-align: justify;
+    padding-top: 50px;
+
+}
+
+.index {
+
+    text-align: center;
+}
+
 img {
 
     border: 20px grey solid;
-    
+
 }
