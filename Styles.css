@@ -1,18 +1,90 @@
+h1 {
+
+text-align: center;
+    font-size: 50px;
+    font-family: tahoma;
+    font-weight: 100; 
+    font-style:italic;
+}
+
+h2 {
+
+    font-family: tahoma;
+
+}
+
+
+
 body {
 
-background:linear-gradient(180deg orange,blue);
+text-align: center;
+background-color: #a8dadc;
 
 }
 
 
-h1 {
+.recipes {
+    font-size: 40px;
+    font-family: Courier;
+    text-align:center;
+
+}
+
+
+
+#butter:hover {
+    font-size: 35px;
+    color:#003049;
+  
+}
+
+#burg:hover {
+  
+    font-size: 30px;
+    color:#003049;
+
+}
+
+#taco:hover{
+    font-size: 30px;
+    color:#003049;
+
+}
+
+div{
     text-align: left;
-    padding: 20px 40px;
+    padding-left: 150px;
+}
+
+img{
+    border: 10px #ffba08 solid;
+    border-radius: 5%;
+    object-position: center top;
 
 }
 
+body.chicken{
+    background:coral;
+    font-size:20px;
 
-ul{
 
+}
+
+footer {
+    text-align: center;
+}
+
+#box {
     
+    display:block;
+    margin:auto;
+    border: 10px solid #ffba08;
+    border-radius: 15px;
+    padding: 20px;
+    margin-top: 30px;
+    width: max(250px,500px);
+    text-align: left;
+    background-color: #f9c74f;
+
+
 }
