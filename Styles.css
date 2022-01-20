@@ -4,20 +4,15 @@ text-align: center;
     font-size: 40px;
     font-family: tahoma;
     font-weight: 100;
-    padding-bottom :250px; ;
+    padding-bottom :280px; ;
 
 
 }
 
 body {
 
-    text-align: center;
-  background-color: #a8dadc;
-    margin: 50px 50px;
-    padding-top:150;
-
-
-
+text-align: center;
+background-color: #a8dadc;
 
 }
 
@@ -26,4 +21,22 @@ body {
     font-size: 30px;
     font-family: Courier;
 
+}
+
+#butter:hover {
+    padding-bottom: 40px;
+    font-size: 35px;
+    color:#003049;
+}
+
+#burg:hover {
+    padding: 20px;
+    font-size: 30px;
+    color:#003049;
+}
+
+#taco:hover{
+    padding-bottom: 40px;
+    font-size: 25px;
+    color:#003049;
 }
