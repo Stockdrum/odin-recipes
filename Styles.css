@@ -19,7 +19,7 @@ h2 {
 body.index{
 
 text-align: center;
-background-color: #a8dadc;
+background-color: #fdb833;
 
 }
 
@@ -35,20 +35,20 @@ background-color: #a8dadc;
 
 #butter:hover {
     font-size: 35px;
-    color:#003049;
+    color: coral;
   
 }
 
 #burg:hover {
   
     font-size: 30px;
-    color:#003049;
+    color: coral;
 
 }
 
 #taco:hover{
     font-size: 30px;
-    color:#003049;
+    color:coral;
 
 }
 
@@ -76,6 +76,17 @@ body.burg {
     text-align: center;
     background-color:#ffd166;
 }
+
+body.taco  {
+
+    font-size:20px;
+    text-align: center;
+    background-color:#fad643;
+
+
+}
+
+
 footer {
     text-align: center;
 }
@@ -98,7 +109,7 @@ footer {
     
     display:block;
     margin:auto;
-    border: 10px solid #ffba08;
+    border: 10px solid #fdc43f;
     border-radius: 15px;
     padding: 20px;
     margin-top: 30px;
@@ -111,7 +122,7 @@ footer {
 
     display:block;
     margin:auto;
-    border: 10px solid #ffba08;
+    border: 10px solid #ffbf00;
     border-radius: 15px;
     padding: 20px;
     margin-top: 30px;
