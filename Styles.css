@@ -8,11 +8,13 @@ text-align: center;
 }
 
 h2 {
-
     font-family: tahoma;
 
 }
 
+#Odin{
+    padding-bottom: 100px;
+}
 
 
 body {
@@ -52,8 +54,8 @@ background-color: #a8dadc;
 }
 
 div{
-    text-align: left;
-    padding-left: 150px;
+    text-align: center;
+
 }
 
 img{
