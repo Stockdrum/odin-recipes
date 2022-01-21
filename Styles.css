@@ -16,8 +16,7 @@ h2 {
     padding-bottom: 100px;
 }
 
-
-body {
+body.index{
 
 text-align: center;
 background-color: #a8dadc;
@@ -68,10 +67,15 @@ img{
 body.chicken{
     background:coral;
     font-size:20px;
+    text-align: center;
 
 
 }
-
+body.burg {
+    font-size:20px;
+    text-align: center;
+    background-color:#ffd166;
+}
 footer {
     text-align: center;
 }
@@ -88,4 +92,12 @@ footer {
     text-align: left;
     background-color: #f9c74f;
 
+}
+
+
+
+img.burg {
+    border: 10px #f4a261 solid;
+    border-radius: 5%;
+    object-position: center top;
 }
