@@ -90,7 +90,7 @@ footer {
     margin-top: 30px;
     width: max(250px,500px);
     text-align: left;
-    background-color: #f9c74f;
+    background-color: #faf0ca;
 
 }
 
@@ -107,6 +107,20 @@ footer {
     background-color: #faf0ca; 
 }
 
+#tacobox{
+
+    display:block;
+    margin:auto;
+    border: 10px solid #ffba08;
+    border-radius: 15px;
+    padding: 20px;
+    margin-top: 30px;
+    width: max(250px,500px);
+    text-align: left;
+    background-color: #faf0ca; 
+
+
+}
 
 img.burg {
     border: 10px #f4a261 solid;
